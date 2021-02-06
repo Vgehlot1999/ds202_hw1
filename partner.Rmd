@@ -1,0 +1,16 @@
+---
+title: "partner"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+My full name is HyunWoo Son, and my GitHub username is red-propaganda. 
+
+The most recent commit was done with the id  of c2c53a6. 
+
+I was able to open up the Rmd file without any error. 
+
+For those who had never used GitHub was hard to follow up only with the instructions given. It would be much better if there is any kind of video file that shows all the steps.  
